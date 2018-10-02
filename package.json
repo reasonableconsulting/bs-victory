@@ -13,7 +13,8 @@
     "src/*.bs.js",
     "src/*.re",
     "bsconfig.json",
-    "LICENSE"
+    "LICENSE",
+    "README.md"
   ],
   "scripts": {
     "clean": "bsb -clean-world",
