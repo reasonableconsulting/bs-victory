@@ -23,10 +23,12 @@
   "dependencies": {},
   "devDependencies": {
     "bs-platform": "^4.0.0",
-    "reason-react": "^0.5.3"
+    "reason-react": "^0.5.3",
+    "victory": "^30.4.1"
   },
   "peerDependencies": {
-    "reason-react": "^0.5.0"
+    "reason-react": "^0.5.0",
+    "victory": "^30.0.0"
   },
   "keywords": [
     "BuckleScript",
