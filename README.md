@@ -1,4 +1,4 @@
-# bs-victory
+# @reasonableconsulting/bs-victory
 
 BuckleScript bindings for Victory Charts.
 
